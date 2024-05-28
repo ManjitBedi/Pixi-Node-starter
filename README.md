@@ -2,6 +2,8 @@ This is a basic start project for using [PixiJS](https://pixijs.com) verion 8 wi
 
 There are various things that were required to be configured to get it to build.
 
+<img width="945" alt="PixiJS - example" src="https://github.com/ManjitBedi/Pixi-Node-starter/assets/2837803/257fbf34-ba21-4f69-863f-db8149e165ad">
+
 ## Notes
 
 A single sprite of s rabbit is displayed on screen.
